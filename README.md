@@ -31,3 +31,8 @@ Some of the obtained news have been removed from their respective websites since
 ## License
 
 Under MIT license.
+
+
+
+[![DOI](https://zenodo.org/badge/303954824.svg)](https://zenodo.org/badge/latestdoi/303954824)
+
