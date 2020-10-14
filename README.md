@@ -9,7 +9,7 @@ For further information look in the [FNDeepML Annotation Scheeme Website](https:
 
 ## Use of char spans
 
-In order to acomplish with the laws of Copyright in Spain, full text cannot be used in the dataset, so you need to obtain the full text of the new and use the 
+In order to accomplish with the laws of Copyright in Spain, full text cannot be used in the dataset, so you need to obtain the full text of the new and use the 
 designated char spans in every tag or part of the text to assemble the dataset.
 
 ## Removed websites 
