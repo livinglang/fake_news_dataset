@@ -27,3 +27,7 @@ Some of the obtained news have been removed from their respective websites since
 * 179
 * 182
 * 183
+
+## License
+
+Under MIT license.
